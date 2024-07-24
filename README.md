@@ -11,12 +11,14 @@ Check out my [coding portfolio!](https://ryanparkportfolio.netlify.app/)
 
 ## 🌐	More About Me:
 
-- I love to listen to play music! Here are some instruemnts I play:
+- I love to listen to play music! Here are some instruments I play:
 1) Cello :violin:
 2) Guitar :guitar:
 3) Bass Guitar :guitar:
 4) Drums 🥁
-5) Cahon :long_drum:	
+5) Cahon :long_drum:
+
+- I also love to travel and explore new cities. Check out this [cinematic montage](https://www.instagram.com/p/C1-yXKYOOAgbkEKiPAU5eFX4GheMUusf1QWUuI0/) on my trip to South Korea
 
 ## 📫 Connect With Me
 
