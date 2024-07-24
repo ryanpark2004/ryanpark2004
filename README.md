@@ -15,12 +15,14 @@ Check out my [coding portfolio!](https://ryanparkportfolio.netlify.app/)
 1) Cello :violin:
 2) Guitar :guitar:
 3) Bass Guitar :guitar:
-4) Drums 	:drum:
+4) Drums 🥁
 5) Cahon :long_drum:	
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/ryan-park-ab093324a/)
+<a href="https://www.linkedin.com/in/ryan-park-ab093324a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
 ## 💻 Tech Stack
 
